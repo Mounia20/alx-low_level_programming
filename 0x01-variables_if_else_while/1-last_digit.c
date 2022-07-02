@@ -3,10 +3,10 @@
 #include <stdio.h>
 int main(void)
 {
-int n;
+	int n;
 
-srand (time(0));
-n = rand() - RAND_MAX / 2;
-printf("Last digit of %d ";
-return (0);			
-}
+	srand(time(0);
+			n = rand() - RAND_MAX / 2;
+			printf("Last digit of %d", n);
+			return (0);
+			}
