@@ -14,4 +14,7 @@ while (x[a])
 			x[a] = trw[b];
 		b++;
 	}
+	a++;
+}
+return (x);
 }
